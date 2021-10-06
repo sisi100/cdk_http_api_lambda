@@ -1,6 +1,6 @@
 ブログ記事はこちら
 
-http://localhost:1313/2021/10/d17/
+https://blog.i-tale.jp/2021/10/d17/
 
 ```sh
 # デプロイ
